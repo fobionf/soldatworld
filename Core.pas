@@ -14,6 +14,7 @@ const
   RAMBO = 4;
   INF = 5;
   HTF = 6;
+  
 //Weapons
   DEAGLES = 1;
   HKMP5 = 2;
