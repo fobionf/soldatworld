@@ -13,6 +13,7 @@ const
   CTF = 3;
   RAMBO = 4;
   INF = 5;
+  
   HTF = 6;
   
 //Weapons
